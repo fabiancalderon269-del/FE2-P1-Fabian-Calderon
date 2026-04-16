@@ -5,3 +5,7 @@ crear un sitio web funcional que permita presentar un producto tecnologico utili
 Etapa 2
 
 inserta la imagen que se encuentra en la carpeta img en el sitio web, esto con el proposito de insertar la imagen para mostar el modelo del producto, el resultado fue util logrando insertar la imagen
+
+Etapa 3
+
+manteniendo el codigo actual, crea una version del sitio que incluya el nombre del producto, una breve descripcion, una estructura basica del sitio y una seccion destacada para la presentacion del producto, esto con el proposito de craer una seccion para presentar el nombre, descripcion del producto

@@ -150,6 +150,36 @@ a {
   justify-content: center;
 }
 
+.product-summary {
+  padding: 2.5rem 3rem;
+  display: grid;
+  gap: 1.5rem;
+  background: rgba(255,255,255,0.05);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.summary-copy h3 {
+  margin: 0.25rem 0 0.75rem;
+  font-size: clamp(2rem, 3vw, 2.6rem);
+  line-height: 1.05;
+}
+
+.highlight-card {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid var(--border);
+  border-radius: 1.5rem;
+  padding: 1.8rem;
+}
+
+.highlight-card h4 {
+  margin: 0 0 0.75rem;
+}
+
+.highlight-card p {
+  margin: 0;
+  color: var(--text-muted);
+}
+
 .image-frame {
   position: relative;
   width: min(100%, 32rem);
