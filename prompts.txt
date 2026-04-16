@@ -13,3 +13,7 @@ manteniendo el codigo actual, crea una version del sitio que incluya el nombre d
 Etapa 4
 
 necesito una mejor presentacion visual del sitio, como mejorar la distribucion del contenido y lograr una apariencia del sitio mas moderna, esto con el proposito de mejorar el estilo visual del sitio web dandole una presentacion mas limpia, el resultado fue considerable
+
+Etapa 5
+
+manteniendo el sitio actual, agregale nuevas secciones al sitio como las caracteristicas principales y los beneficios del producto, y algunas ventas sobre otros productos, esto con el proposito de agregar nuevas secciones para generar mas interes en el usuario sobre el producto, el resultado fue util
