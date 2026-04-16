@@ -8,4 +8,8 @@ inserta la imagen que se encuentra en la carpeta img en el sitio web, esto con e
 
 Etapa 3
 
-manteniendo el codigo actual, crea una version del sitio que incluya el nombre del producto, una breve descripcion, una estructura basica del sitio y una seccion destacada para la presentacion del producto, esto con el proposito de craer una seccion para presentar el nombre, descripcion del producto
+manteniendo el codigo actual, crea una version del sitio que incluya el nombre del producto, una breve descripcion, una estructura basica del sitio y una seccion destacada para la presentacion del producto, esto con el proposito de craer una seccion para presentar el nombre, descripcion del producto, el resultado fue util
+
+Etapa 4
+
+necesito una mejor presentacion visual del sitio, como mejorar la distribucion del contenido y lograr una apariencia del sitio mas moderna, esto con el proposito de mejorar el estilo visual del sitio web dandole una presentacion mas limpia, el resultado fue considerable
