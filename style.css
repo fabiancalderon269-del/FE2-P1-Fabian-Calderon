@@ -400,13 +400,17 @@ a {
 }
 
 @media (max-width: 900px) {
+  .page-content,
   .site-header,
   .hero,
+  .product-summary,
   .features-section,
+  .main-features-section,
+  .benefits-section,
   .specs-section,
   .story-section,
-  .cta-section,
-  .product-summary {
+  .other-products-section,
+  .cta-section {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     margin: 0;
@@ -415,68 +419,106 @@ a {
   .site-header {
     flex-direction: column;
     align-items: stretch;
+    gap: 1rem;
+  }
+
+  .main-nav {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
   }
 
   .hero {
     grid-template-columns: 1fr;
+    gap: 2rem;
   }
 
-  .product-summary {
-    grid-template-columns: 1fr;
+  .hero-image,
+  .hero-copy {
+    width: 100%;
   }
 
-  .specs-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
+  .product-summary,
   .story-section {
     grid-template-columns: 1fr;
+  }
+
+  .specs-grid,
+  .feature-grid,
+  .benefit-grid,
+  .product-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 600px) {
   .page-content,
   .site-header,
+  .product-summary,
   .features-section,
+  .main-features-section,
+  .benefits-section,
   .specs-section,
   .story-section,
-  .cta-section,
-  .product-summary {
+  .other-products-section,
+  .cta-section {
     padding-left: 1rem;
     padding-right: 1rem;
   }
 
   .site-header {
     padding-top: 1rem;
-  }
-
-  .hero-copy h2 {
-    font-size: 2.4rem;
+    gap: 1rem;
   }
 
   .main-nav {
     justify-content: center;
+    gap: 0.6rem;
   }
 
-  .specs-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 600px) {
-  .site-header {
-    padding-top: 1.5rem;
+  .hero {
+    gap: 1.5rem;
   }
 
   .hero-copy h2 {
-    font-size: 2.3rem;
+    font-size: 2rem;
   }
 
-  .main-nav {
+  .hero-copy p,
+  .summary-copy p,
+  .feature-card p,
+  .spec-card p,
+  .benefit-card p,
+  .product-card p,
+  .story-content p,
+  .cta-section p {
+    font-size: 0.95rem;
+  }
+
+  .hero-image {
     justify-content: center;
   }
 
-  .specs-grid {
+  .image-frame {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .product-summary,
+  .specs-grid,
+  .feature-grid,
+  .benefit-grid,
+  .product-grid {
     grid-template-columns: 1fr;
+  }
+
+  .cta-section {
+    flex-direction: column;
+    align-items: stretch;
+    text-align: center;
+  }
+
+  .cta-section .button {
+    width: 100%;
   }
 }
