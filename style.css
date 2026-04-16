@@ -268,12 +268,47 @@ a {
 .cta-section,
 .main-features-section,
 .benefits-section,
-.other-products-section {
+.other-products-section,
+.comparison-section {
   padding: 3rem 2.5rem;
   margin: 0 0 2rem;
   border-radius: 2rem;
   background: rgba(255,255,255,0.03);
   border: 1px solid rgba(255,255,255,0.08);
+}
+
+.comparison-table-wrap {
+  overflow-x: auto;
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 520px;
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 1.15rem 1rem;
+  text-align: left;
+}
+
+.comparison-table th {
+  background: rgba(107,215,255,0.12);
+  color: var(--text);
+  font-weight: 700;
+}
+
+.comparison-table tbody tr {
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.comparison-table tbody tr:nth-child(even) {
+  background: rgba(255,255,255,0.02);
+}
+
+.comparison-table td {
+  color: var(--text-muted);
 }
 
 .benefit-grid,

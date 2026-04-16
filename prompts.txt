@@ -21,3 +21,7 @@ manteniendo el sitio actual, agregale nuevas secciones al sitio como las caracte
 Etapa 6
 
 manteniendo la estructura actual del sitio, haz que el sitio tenga una adaptacion responsive principalmente para celulares, esto con el proposito de quec el sitio responda mejor en pantallas pequeñas, el resultado fue util
+
+Etapa 7 
+
+manteniendo la estuctura de el sitio actual, incorpora unas secciones comparativas que tengan las caracteristicas ordenadas, al menos 2-3 atributos tecnicos relevantes y una presentacion clara y ordenada de la informacion, esto con el proposito de implementar una nueva seccion comparativa y ordenada de los atributos tecnicos, el resultado fue util
