@@ -1,3 +1,7 @@
 Etapa 1 
 
 crear un sitio web funcional que permita presentar un producto tecnologico utilizando html y css, el producto debe ser un notebook, el sitio debe estar orientado a mostrar el producto, mostrar sus caracteristicas y generar interes en el usuario, esto con el proposito de crear una presentacion clara para el producto, el resultado fu util, solo que le falto insertar la imagen
+
+Etapa 2
+
+inserta la imagen que se encuentra en la carpeta img en el sitio web, esto con el proposito de insertar la imagen para mostar el modelo del producto, el resultado fue util logrando insertar la imagen
